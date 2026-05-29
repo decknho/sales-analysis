@@ -36,17 +36,21 @@ O objetivo do projeto é explorar dados de vendas, identificar padrões de compo
 sales-analysis/
 │
 ├── data/
-│   ├── sales.csv
-│   └── sales_cleaned.csv
+│   ├── processed/
+│   │   ├── coffeeshop_tratado.csv
+│   │   └── games_dashboard.csv
+│   │
+│   └── raw/
+│       └── coffeeshop.csv
 │
 ├── notebooks/
-│   └── sales_analysis.ipynb
-│
+│   └── cafeteria.ipynb
+│   
 ├── dashboard/
-│   └── sales_dashboard.pbix
+│   └── Games.pdf
+│   └── Cafeteria.pdf
 │
 ├── images/
-│   └── dashboard_preview.png
 │
 ├── LICENSE
 └── README.md
