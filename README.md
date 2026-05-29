@@ -26,6 +26,7 @@ O objetivo do projeto é explorar dados de vendas, identificar padrões de compo
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Looker Studio
 - Power BI
 
 ---
