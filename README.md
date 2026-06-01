@@ -56,3 +56,12 @@ sales-analysis/
 │
 ├── LICENSE
 └── README.md
+```
+
+---
+
+# Dashboard em Power BI
+
+<p align="center">
+  <img src="images/dashboard.png" width="800">
+</p>
