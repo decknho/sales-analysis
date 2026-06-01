@@ -60,8 +60,9 @@ sales-analysis/
 
 ---
 
-# Dashboard em Power BI
+# Dashboards em Power BI
 
+## Games Dashboard
 <p align="center">
   <img src="images/dashboard.png" width="800">
 </p>
