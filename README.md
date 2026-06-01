@@ -48,8 +48,9 @@ sales-analysis/
 │   └── cafeteria.ipynb
 │   
 ├── dashboard/
-│   └── Games.pdf
-│   └── Cafeteria.pdf
+│   ├── Games.pdf
+│   ├── Cafeteria.pdf
+│   └── Games.pbix
 │
 ├── images/
 │
