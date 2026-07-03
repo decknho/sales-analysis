@@ -39,20 +39,25 @@ sales-analysis/
 ├── data/
 │   ├── processed/
 │   │   ├── coffeeshop_tratado.csv
+│   │   ├── dados_ecommerce_processed.csv
 │   │   └── games_dashboard.csv
 │   │
 │   └── raw/
 │       └── coffeeshop.csv
 │
 ├── notebooks/
+│   ├── transacao.ipynb
 │   └── cafeteria.ipynb
 │   
 ├── dashboard/
 │   ├── Games.pdf
 │   ├── Cafeteria.pdf
+│   ├── Vendas.pdf
 │   └── Games.pbix
 │
 ├── images/
+│   ├── dashboard.png
+│   └── Vendas.png
 │
 ├── LICENSE
 └── README.md
