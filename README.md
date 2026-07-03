@@ -69,3 +69,11 @@ sales-analysis/
 <p align="center">
   <img src="images/dashboard.png" width="800">
 </p>
+
+<p align="center">
+  Historico de transações Dashboard
+</p>
+
+<p align="center">
+  <img src="images/Vendas.png" width="800">
+</p>
